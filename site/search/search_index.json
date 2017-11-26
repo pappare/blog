@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to PAPPARE Blog\n\n\nFor full documentation visit \nmkdocs.org\n.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-pappare-blog",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to PAPPARE Blog"
+        },
+        {
+            "location": "/first-post/",
+            "text": "This is first post",
+            "title": "First Post"
+        },
+        {
+            "location": "/first-post/#this-is-first-post",
+            "text": "",
+            "title": "This is first post"
+        }
+    ]
+}

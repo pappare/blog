@@ -1,0 +1,7 @@
+site_name: PAPPARE Blog
+pages:
+    - Home: index.md
+    - Posts:
+        - First Post: first-post.md
+theme:
+  name: 'material'
